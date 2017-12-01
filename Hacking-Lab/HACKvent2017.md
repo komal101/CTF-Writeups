@@ -3,12 +3,12 @@ HACKvent 2017
 ----------------------------------Day
 1----------------------------------
 
-![](Pictures/100000000000055600000300F1EDDBA165805CC6.png){width="9.484cm"
-height="3.152cm"}
+![](Pictures/100000000000055600000300F1EDDBA165805CC6.png){width="358"
+height="119"}
 
 2014
 
-*HV24-BAAJ-6ZtK-IJHy-bABB-YoMw *
+*HV24-BAAJ-6ZtK-IJHy-bABB-YoMw*
 
 2015
 
